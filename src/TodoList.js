@@ -50,7 +50,6 @@ class TodoList extends Component {
     return (
       <div className="todoListMain">
         <div className="header">
-          <button><a href="https://www.kirupa.com/react/simple_todo_app_react.htm">Building an Awesome Todo List App in React</a></button>
           <form onSubmit={this.addItem}>
             <input 
               ref={(a) => this._inputElement = a} 
