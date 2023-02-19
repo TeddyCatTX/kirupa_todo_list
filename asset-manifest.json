@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/kirupa_todo_list/static/css/main.85ad006d.css",
+    "main.js": "/kirupa_todo_list/static/js/main.4adb38ab.js",
+    "index.html": "/kirupa_todo_list/index.html",
+    "main.85ad006d.css.map": "/kirupa_todo_list/static/css/main.85ad006d.css.map",
+    "main.4adb38ab.js.map": "/kirupa_todo_list/static/js/main.4adb38ab.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.85ad006d.css",
+    "static/js/main.4adb38ab.js"
+  ]
+}
